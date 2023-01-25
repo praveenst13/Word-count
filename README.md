@@ -22,6 +22,8 @@ Print the value of count, which has the number of words in the file
 End of the program
 ## PROGRAM:
 ```
+#Developed By:praveen s
+#Register number:-22009017
 num_words =0
 with open('txt.txt','r') as file1:
     for i in file1:
